@@ -8,4 +8,4 @@ streamlit.text('Omega3 and blueberry oatmeal')
 
 streamlit.text('Hard boiled free range egg')
 
-streamlit.write('writing with write function')
+streamlt.write('writing with write function')
